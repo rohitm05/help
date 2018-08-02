@@ -1,0 +1,147 @@
+.header{
+	
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	margin: 10px auto;
+   margin-top: 40px;
+}
+.header1{
+	
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	margin: 10px auto;
+   margin-top: 60px;
+   margin-bottom: 30px;
+}
+.bt{
+	width: 50% !important;
+}
+.log{
+	font-weight: bold;
+	margin-bottom: 0;
+	font-size: 35px;
+	text-align: center;
+	margin: 5px auto;
+}
+.log1{
+	text-align: center;
+	margin: 5px auto;
+}
+.inp{
+	border-color: black;
+	border-width: 2px;
+	width: 80%;
+	margin: 2px auto;
+	background-color: white; 
+}
+.inp:focus{
+	border-color: black;
+	border-width: 2px;
+	width: 80%;
+	margin: 2px auto;
+	background-color: #ecf8a3; 
+}
+.full{
+	margin-top: 50px;
+}
+
+body 
+{ 
+width: 100%;
+font-family: calibri;
+background: url('back.jpg');
+
+}
+.error-message {
+	padding: 7px 10px;
+	background: #fff1f2;
+	border: #ffd5da 1px solid;
+	color: #d6001c;
+	border-radius: 4px;
+}
+.success-message {
+	padding: 7px 10px;
+	background: #cae0c4;
+	border: #c3d0b5 1px solid;
+	color: #027506;
+	border-radius: 4px;
+}
+.demo-table {
+	border-style: ridge;
+	border-width: 4px;
+	background: white;
+	background-repeat: no-repeat;
+	width: 500px;
+	border-spacing: initial;
+	margin: 0 auto;
+	word-break: break-word;
+	table-layout: auto;
+	line-height: 1.8em;
+	color: #333;
+	border-radius: 4px;
+	padding: 20px 40px;
+
+}
+.demo-table td {
+	padding: 15px 0px;
+}
+.demoInputBox {
+	padding: 10px 30px;
+	border: #a9a9a9 1px solid;
+	border-radius: 4px;
+}
+.btnRegister {
+	padding: 10px 30px;
+	background-color: #3367b2;
+	border: 0;
+	color: #FFF;
+	cursor: pointer;
+	border-radius: 4px;
+	margin-left: 10px;
+}
+.tab{
+	margin-top: 77px;
+	border-width: 2px;
+	border-color: black;
+	color: black;
+	width: 50px;
+	text-align:center;
+	padding-right: 10px;
+}
+.fa-user-edit:before {
+    content: "\f4ff";
+    color: white !important;
+    font-size: 22px !important;
+}
+.td1{
+	
+	text-align: center;
+	font-weight: bold;
+}
+table{
+	background-color: white !important;
+}
+.anc{
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+}
+.logout{
+	color:white;
+	font-weight: bold;
+	font-size: 25px;
+}
+.anc:hover{
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+}
+.logout:hover{
+	text-decoration: none;
+	color:white;
+	font-weight: bold;
+	font-size: 25px;
+}
